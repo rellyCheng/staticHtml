@@ -1,2 +1,0 @@
-# staticHtml
-Created with CodeSandbox
